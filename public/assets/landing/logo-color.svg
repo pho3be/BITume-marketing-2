@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" viewBox="0 0 831 194">
+    <defs/>
+    <defs>
+        <linearGradient id="g" x1="-198.7" x2="-177.8" y1="476.4" y2="464.3" gradientTransform="matrix(3.95833 0 0 3.95833 898 -1753)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+        <linearGradient id="a">
+            <stop offset="0" stop-color="#e7ba03"/>
+            <stop offset="1" stop-color="#958026"/>
+        </linearGradient>
+        <linearGradient id="f" x1="-205.8" x2="-186.8" y1="392.3" y2="381.9" gradientTransform="matrix(7.91667 0 0 7.91667 1649 -2970)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+        <linearGradient id="b">
+            <stop offset="0" stop-color="#e7ba03"/>
+            <stop offset="1" stop-color="#f0f0f0"/>
+        </linearGradient>
+        <linearGradient id="c">
+            <stop offset="0" stop-color="#e7ba03"/>
+            <stop offset="1" stop-color="#eacc52"/>
+        </linearGradient>
+        <linearGradient id="e" x1="-1817.4" x2="-1784.2" y1="282.5" y2="282.5" gradientTransform="matrix(3.95833 0 0 3.95833 7423 -1018)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+        <linearGradient id="d" x1="-1817.4" x2="-1784.2" y1="282.5" y2="282.5" gradientTransform="matrix(3.95833 0 0 3.95833 7423 -1018)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+    </defs>
+    <path style="line-height:125%;-inkscape-font-specification:'Gilmer Bold'" fill="#434448" d="M469 45v19h-37v92h-22V64h-37V45h96zM529 76h20v80h-20v-10q-10 12-26 12t-24-10q-8-9-8-26V76h21v42q0 10 4 15 5 5 13 5 9 0 14-6 6-6 6-17V76zM666 73q14 0 23 10 9 9 9 25v48h-21v-44q0-19-16-19-8 0-12 6-5 5-5 16v41h-21v-44q0-19-15-19-8 0-13 6-4 6-4 16v41h-21V76h21v9q9-12 24-12 16 0 24 12 9-12 27-12zM756 158q-19 0-32-12-12-11-12-30t12-31q12-12 30-12 20 0 31 12t11 29l-1 8h-62q1 8 7 13t16 5q14 0 20-10l19 5q-4 9-15 16-9 7-24 7zm-23-49h42q-1-8-6-13-6-5-15-5t-14 5q-6 6-7 13z"/>
+    <path style="line-height:125%;-inkscape-font-specification:'Gilmer Bold'" fill="url(#d)" d="M305 98q8 3 13 10t5 16q0 15-10 23-10 9-28 9h-56V45h53q17 0 26 8 11 8 11 21 0 16-14 24zm-23-34h-31v27h32q6 0 10-4 5-4 4-10 0-6-4-10t-11-3zm3 73q7 0 12-4 4-4 4-11 0-6-4-10t-12-4h-34v29h34z"/>
+    <path style="line-height:125%;-inkscape-font-specification:'Gilmer Bold'" fill="url(#e)" d="M339 156V45h22v111h-22z"/>
+    <path fill="#f0f0f0" fill-rule="evenodd" d="M75 26L36 97l39 71h79l40-71-40-71z"/>
+    <path fill="#e7ba03" fill-rule="evenodd" d="M75 26L36 97l15 28c45-22 95-41 134-44l-31-55zm114 62c-5 8-6 18-6 29l11-20zM59 140l16 28h79l14-23z"/>
+    <path fill="url(#f)" fill-rule="evenodd" d="M139 57v33l15-4V57h-15zm-24 8v33l16-6V65h-16zM91 81v26l16-7V81H91zM67 97v20l16-7V97H67z"/>
+    <path fill="#434448" fill-rule="evenodd" d="M28 152c53-28 103-63 166-71-24 24-26 42-16 71z"/>
+    <path fill="url(#g)" fill-rule="evenodd" d="M186 85l-9 4h2l7-4zm-12 6l-11 5h4l9-5zm-17 8l-15 9h9l11-9zm-24 15l-14 11h16l9-11zm-22 19l-15 19 14 7 12-7c1-7 4-13 8-19z"/>
+</svg>

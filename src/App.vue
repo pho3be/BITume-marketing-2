@@ -1,28 +1,31 @@
 <template>
   <div id="app">
-    <img alt="BITume logo" src="./assets/BITume-logo.png">
-    <HelloWorld msg="Lead the road for a deep exploration into your data !"/>
+<!--    <img alt="BITume logo" src="./assets/BITume-logo.png">-->
+    <TopMenu/>
+    <HomeLanding/>
+    <Footer/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TopMenu from './components/TopMenu.vue'
+import Footer from './components/Footer.vue'
+import HomeLanding from './components/HomeLanding.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Footer,
+    HomeLanding,
+    TopMenu
   }
 }
 </script>
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+
 }
 </style>
